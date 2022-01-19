@@ -1,3 +1,5 @@
+# Class 1: Monday Jan 13
+
 1. Fork  https://github.com/EvEng-22/students
 1. Introduce yourself via a netid.md file (do not create netid.md, but replace netid by     your own netid in all lowercase). Please provide at least one sentence on your background and one full paragraph explaining ether a project you are already working on or a project you'd like to work on for this class. 
 1. Now go to your fork (https://github.com/yourGHid/students) and click on [Create Pull Request](https://help.github.com/articles/using-pull-requests/) on [students repository](https://github.com/EvEng-22/students)
