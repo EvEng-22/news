@@ -8,7 +8,7 @@
 # Syllabus and News for CS594/690: Evidence Engineering
 
 * **Course:** [COSCS-594/690]
-* ** MK623  TR TTh 02:50PM-04:05PM  (Min Kao 404) and over zoom  **
+* ** MK623  TR TTh 02:50PM-04:05PM  (Min Kao 404) and over zoom https://tennessee.zoom.us/j/99540828537 **
 * **Instructor:** Audris Mockus, [audris@utk.edu](mailto:audris@utk.edu) office hours MK613 - on request
 
 
