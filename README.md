@@ -1,3 +1,9 @@
+# [The proposed presentation dates are here](https://github.com/EvEng-22/papers/blob/master/README.md)
+
+# Class 2: 
+  Finished Evidence Engineering [lecture](https://github.com/EvEng-22/papers/blob/master/course1.pdf)
+
+
 # Class 1: Monday Jan 13
 
 1. Fork  https://github.com/EvEng-22/students
