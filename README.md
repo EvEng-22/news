@@ -1,5 +1,12 @@
 # [The proposed presentation dates are here](https://github.com/EvEng-22/papers/blob/master/README.md)
 
+# Class 5: Feb 8: Andew: 
+
+# Class 4: Feb 3: No class
+
+# Class 3: Feb 1
+ - Zhixiu: TestingInUncertainty
+
 # Class 2: 
   Finished Evidence Engineering [lecture](https://github.com/EvEng-22/papers/blob/master/course1.pdf)
 
