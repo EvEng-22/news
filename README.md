@@ -2,6 +2,7 @@
 
 # Class 6: Feb 10: 
   - Rachel: PyTorch BigGraph (continued)
+  - Mahmoud: ChaosMonkey
 
 # Class 5: Feb 8: 
   - Andew: facebookNews
