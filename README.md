@@ -1,18 +1,21 @@
 # [The proposed presentation dates are here](https://github.com/EvEng-22/papers/blob/master/README.md)
 
-# Class 6: Feb 10: 
+# Class 7: Feb 15: 
   - Rachel: PyTorch BigGraph (continued)
   - Mahmoud: ChaosMonkey
 
-# Class 5: Feb 8: 
+# Class 6: Feb 10: 
   - Andew: facebookNews
   - Rachel: PyTorch BigGraph
 
+# Class 5: Feb 8
+  - Zhixiu: TestingInUncertainty
+  
 # Class 4: Feb 3: No class
 
 # Class 3: Feb 1
- - Zhixiu: TestingInUncertainty
-
+  - Software supply chains and world of code
+   
 # Class 2: 
   Finished Evidence Engineering [lecture](https://github.com/EvEng-22/papers/blob/master/course1.pdf)
 
