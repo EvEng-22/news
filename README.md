@@ -1,15 +1,15 @@
 # [The proposed presentation dates are here](https://github.com/EvEng-22/papers/blob/master/README.md)
 
 # Class 7: Feb 15: 
-  - Rachel: PyTorch BigGraph (continued)
   - Mahmoud: ChaosMonkey
 
 # Class 6: Feb 10: 
-  - Andew: facebookNews
+  - Andew: facebookNews (continued)
   - Rachel: PyTorch BigGraph
 
 # Class 5: Feb 8
   - Zhixiu: TestingInUncertainty
+  - Andew: facebookNews
   
 # Class 4: Feb 3: No class
 
