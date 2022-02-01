@@ -2,6 +2,7 @@
 
 # Class 7: Feb 15: 
   - Mahmoud: ChaosMonkey
+  - Senjutti: netflixrRecommende
 
 # Class 6: Feb 10: 
   - Andew: facebookNews (continued)
